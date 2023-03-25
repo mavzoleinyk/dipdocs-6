@@ -107,7 +107,7 @@ This is the child theme for Total theme, generated with Generate Child Theme plu
     padding: 15px 20px;
     text-align: center;
     font-size: 18px;
-    display: block;
+    display: inline-block;
     border-radius: 5px;
 }
 .btn-solid:hover{color: #fff;opacity: .8;}
@@ -137,7 +137,14 @@ This is the child theme for Total theme, generated with Generate Child Theme plu
     border: 1px solid #0ea5e9;
     border-radius: 15px;
 }
-
+.prof__list{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.prof__list li{
+    flex: 1 0 25%;
+}
 
 /* Карточка продукта */
 .product-item{
@@ -634,6 +641,12 @@ This is the child theme for Total theme, generated with Generate Child Theme plu
 }
 
 /* Популярные вызу */
+.vuz-posts{
+    text-align: center;
+}
+.vuz-posts .btn-solid{
+    margin: 3rem auto 0;
+}
 .vuz-content{
     display: flex;
     flex-wrap: wrap;
@@ -663,6 +676,12 @@ This is the child theme for Total theme, generated with Generate Child Theme plu
 }
 
 /* Популярные специальности */
+.skills-posts{
+    text-align: center;
+}
+.skills-posts .btn-solid{
+    margin: 3rem auto 0;
+}
 .skills-content{
     display: flex;
     flex-wrap: wrap;

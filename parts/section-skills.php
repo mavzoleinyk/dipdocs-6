@@ -45,4 +45,5 @@
             <div class="title"><a href="/diplom-vracha-v-sankt-peterburge/">Врач</a></div>
         </div>
     </div>
+    <a href="/vse-speczialnosti/" class="btn-solid">Смотреть все</a>
 </section>

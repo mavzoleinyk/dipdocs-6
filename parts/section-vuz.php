@@ -6,39 +6,52 @@
     <div class="vuz-content">
         <div class="vuz-item">
             <div class="image">
-                <img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/img/vuz-rggu.jpg" alt="Купить диплом РГГУ без предоплаты в СПб">
+                <img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/img/spbgu.jpg" alt="Санкт-Петербургский государственный университет">
             </div>
-            <div class="title">РГГУ</div>
+            <div class="title">СПбГУ</div>
         </div>
         <div class="vuz-item">
             <div class="image">
-                <img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/img/vuz-rudn.jpg" alt="Купить диплом РУДН без предоплаты в СПб">
+                <img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/img/spbpu.jpg" alt="Санкт-Петербургский политехнический университет Петра Великого">
             </div>
-            <div class="title">РУДН</div>
+            <div class="title">СПбПУ</div>
         </div>
         <div class="vuz-item">
             <div class="image">
-                <img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/img/vuz-nitu.jpg" alt="Купить диплом МИСиС без предоплаты в СПб">
+                <img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/img/itmo.jpg" alt="Университет ИТМО">
             </div>
-            <div class="title">МИСиС</div>
+            <div class="title">ИТМО</div>
         </div>
         <div class="vuz-item">
             <div class="image">
-                <img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/img/vuz-bmstu.jpg" alt="Купить диплом МГТУ без предоплаты в СПб">
+                <img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/img/spbgeu.jpg" alt="Санкт-Петербургский государственный экономический университет">
             </div>
-            <div class="title">МГТУ</div>
+            <div class="title">СПбГЭУ</div>
         </div>
         <div class="vuz-item">
             <div class="image">
-                <img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/img/vuz-madi.jpg" alt="Купить диплом МАДИ без предоплаты в СПб">
+                <img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/img/spgu.jpg" alt="Санкт-Петербургский государственный университет">
             </div>
-            <div class="title">МАДИ</div>
+            <div class="title">СПГУ</div>
         </div>
         <div class="vuz-item">
             <div class="image">
-                <img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/img/vuz-mgu.jpg" alt="Купить диплом МГУ без предоплаты в СПб">
+                <img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/img/pspbgmu.jpg" alt="Первый Санкт-Петербургский государственный медицинский университет им. И.П. Павлова">
             </div>
-            <div class="title">МГУ</div>
+            <div class="title">ПСПбГМУ</div>
+        </div>
+        <div class="vuz-item">
+            <div class="image">
+                <img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/img/spbgut.jpg" alt="Санкт-Петербургский государственный университет телекоммуникаций им. проф. М.А.Бонч-Бруевича">
+            </div>
+            <div class="title">СПбГУТ</div>
+        </div>
+        <div class="vuz-item">
+            <div class="image">
+                <img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/img/spbutuie.jpg" alt="Санкт-Петербургский университет технологий управления и экономики">
+            </div>
+            <div class="title">СПбУТУиЭ</div>
         </div>
     </div>
+    <a href="/vse-vuzy/" class="btn-solid">Смотреть все</a>
 </section>
